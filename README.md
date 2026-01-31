@@ -1,9 +1,9 @@
-<br clear="both">
+Hello, I'm Syed Umair Ali, a junior software and devops engineer. I enjoy building software and designing systems that are used by people on a daily basis to make their lives easier and better.
 
-<h1 align="center">Hey 👋 I'm Umair</h1>
+- [View my resume.](https://docs.google.com)
+- [Follow me on LinkedIn](https://linkedin.com/in/syedumaircodes)
 
-###
+If you have any business related or any other professional queries, feel free to email me at [my email](mailto:syedumairali.617@gmail.com) and I'll get back to you ASAP.
 
-<p> Hi, I’m Umair! A software engineer focused on software engineering, AI, and data engineering. I build practical, efficient systems with modern stacks, experiment with generative AI, and share my work to help others grow. Always learning, always shipping.</p>
 
-<p> Outside of work, I’m committed to sharing what I learn, documenting my journey, or just playing games and watching anime.</p>
+
