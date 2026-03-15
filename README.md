@@ -1,4 +1,4 @@
-I'm a software and devops engineer with a parallel career as a data professional. I combine domain knowledge with engineering experience to build software and data platforms and the large-scale systems that power them.
+Full-Stack Engineer building fast, reliable, and scalable systems. Proficient in Python, FastAPI, Next.js, and GCP, with hands-on experience shipping production-grade applications.
 
 - [View my resume.](https://docs.google.com/document/d/1OVvzftFMGC8erOxmHZBn3rTuVHZV4CGMgglPFt22OBA/edit?usp=sharing)
 - [Contact me on LinkedIn](https://linkedin.com/in/syedumaircodes)
