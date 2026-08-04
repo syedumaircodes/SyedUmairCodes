@@ -1,6 +1,6 @@
 Full-Stack Engineer building fast, reliable, and scalable systems. Proficient in Python, FastAPI, Next.js, and GCP, with hands-on experience shipping production-grade applications.
 
-- [View my resume.](https://docs.google.com/document/d/1Ne27L_KmQNVd0iZGJ_TxTR0Tz7t7swesp_GyMYrM7sY/edit?usp=sharing)
+- [View my resume.]([https://docs.google.com/document/d/1Ne27L_KmQNVd0iZGJ_TxTR0Tz7t7swesp_GyMYrM7sY/edit?usp=sharing](https://docs.google.com/document/d/16k-BhsJGH4f30j3ie-j54i-bMt3Lk9-1OtZiZ51vNDA/edit?usp=sharing))
 - [Contact me on LinkedIn](https://linkedin.com/in/syedumaircodes)
 
 If you have any business related or any other professional queries, feel free to email me at [my email](mailto:syedumairali.617@gmail.com) and I'll get back to you ASAP.
