@@ -19,18 +19,6 @@ I bridge the gap between aesthetic vision and production code. Whether it's a ba
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=syedumaircodes&show_icons=true&theme=default&hide_border=true" alt="Umair's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedumaircodes&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedumaircodes&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
----
-
-📫 Reach me: syedumairali.617@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/syedumaircodes) · [Portfolio](https://syedumaircodes.vercel.app)
+- Email: syedumairali.617@gmail.com
+- [LinkedIn](https://linkedin.com/in/syedumaircodes)
+- [Portfolio](https://syedumaircodes.vercel.app)
